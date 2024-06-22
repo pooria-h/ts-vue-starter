@@ -57,3 +57,5 @@ To run End to end tests:
 npm run test:e2e
 ```
 
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
